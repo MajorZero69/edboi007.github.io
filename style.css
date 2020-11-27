@@ -1,6 +1,6 @@
 /*update ps4 controller svg*/
 .controller.ds4 {
-    background: url(https://github.io/edboi007/raw/master/base.svg);
+    background: url(https://raw.githubusercontent.com/edboi007/edboi007.github.io/main/base.svg);
 }
 
 .ds4 .back.pressed, .ds4 .start.pressed {
