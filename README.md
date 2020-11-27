@@ -1,0 +1,5 @@
+# 20th Anniversary DS4 GamepadViewer Skin
+GamepadViewer link with edited CSS and new DS4 layout:
+http://gamepadviewer.com/?p=1&s=5&editcss=data:text/css;base64,LmNvbnRyb2xsZXIuZHM0IHsKICAgIGJhY2tncm91bmQ6IHVybChodHRwczovL2dpdGd1ZC5pby9NYWpvcl9aZXJvLzIwdGgtYW5uaXZlcnNhcnktZHM0Ly0vcmF3L21hc3Rlci9iYXNlLnN2Zyk7Cn0KCi5kczQgLmJhY2sucHJlc3NlZCwgLmRzNCAuc3RhcnQucHJlc3NlZCB7CiAgICBiYWNrZ3JvdW5kOiB1cmwoaHR0cHM6Ly9nYW1lcGFkdmlld2VyLmNvbS9wczQtYXNzZXRzL3N0YXJ0LnN2Z3opOwp9
+
+Template copied from the official black DS4 vector from https://gamepadviewer.com and intended for use on https://gamepadviewer.com.
